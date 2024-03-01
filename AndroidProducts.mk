@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_herolte.mk
+    $(LOCAL_DIR)/evolution_herolte.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_herolte-user \
-    aosp_herolte-userdebug \
-    aosp_herolte-eng
+    evolution_herolte-user \
+    evolution_herolte-userdebug \
+    evolution_herolte-eng
